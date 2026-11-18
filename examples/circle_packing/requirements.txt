@@ -37,7 +37,7 @@ openpyxl==3.1.5
 # Web & APIs
 fastapi==0.121.1
 beautifulsoup4==4.13.5
-scrapy==2.13.3
+scrapy==2.20.0
 sqlalchemy==2.0.44
 
 # Visualization
@@ -51,4 +51,4 @@ psutil>=5.9.0  # For process management and timeout handling
 # Logging & tracking
 wandb>=0.17.0
 matplotlib>=3.7.5
-litellm==1.83.0
+litellm==1.100.4
